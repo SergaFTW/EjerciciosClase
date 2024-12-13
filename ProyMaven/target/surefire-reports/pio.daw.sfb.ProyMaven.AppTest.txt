@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pio.daw.sfb.ProyMaven.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.036 s -- in pio.daw.sfb.ProyMaven.AppTest
